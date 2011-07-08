@@ -260,5 +260,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/droid2we/proprietary/libstagefright.so:/system/lib/libstagefright.so \
     vendor/motorola/droid2we/proprietary/01_Vendor_ti_omx.cfg:/system/etc/01_Vendor_ti_omx.cfg \
     vendor/motorola/droid2we/proprietary/cameraCalFileDef.bin:/system/etc/cameraCalFileDef.bin \
-    vendor/motorola/droid2we/proprietary/media_profiles.xml:/system/lib/media_profiles.xml
+    vendor/motorola/droid2we/proprietary/media_profiles.xml:/system/lib/media_profiles.xml \
+    vendor/motorola/droid2we/proprietary/libLCML.so:/system/lib/libLCML.so \
+    vendor/motorola/droid2we/proprietary/libbridge.so:/system/lib/libbridge.so 
 
