@@ -102,6 +102,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/droid2we/proprietary/fw_wlan1271.bin:/system/etc/wifi/fw_wlan1271.bin \
     vendor/motorola/droid2we/proprietary/hostapd.conf.templet:/system/etc/wifi/hostapd.conf.templet \
     vendor/motorola/droid2we/proprietary/tiwlan.ini:/system/etc/wifi/tiwlan.ini \
+    vendor/motorola/droid2we/proprietary/tiwlan_1.ini:/system/etc/wifi/tiwlan_1.ini \
+    vendor/motorola/droid2we/proprietary/tiwlan_2.ini:/system/etc/wifi/tiwlan_2.ini \
     vendor/motorola/droid2we/proprietary/tiwlan_ap.ini:/system/etc/wifi/tiwlan_ap.ini \
     vendor/motorola/droid2we/proprietary/wpa_supplicant.conf:/system/etc/wifi/wpa_supplicant.conf \
     vendor/motorola/droid2we/proprietary/720p_h264vdec_sn.dll64P:/system/lib/dsp/720p_h264vdec_sn.dll64P \
