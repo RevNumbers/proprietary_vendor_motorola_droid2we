@@ -30,6 +30,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/droid2we/proprietary/PhoneConfig.apk:/system/app/PhoneConfig.apk \
     vendor/motorola/droid2we/proprietary/ProgramMenu.apk:/system/app/ProgramMenu.apk \
     vendor/motorola/droid2we/proprietary/ProgramMenuSystem.apk:/system/app/ProgramMenuSystem.apk \
+    vendor/motorola/droid2we/proprietary/GlobalNwSwitch.apk:/system/app/GlobalNwSwitch.apk \
 
 # All the blobs necessary for droid2we
 PRODUCT_COPY_FILES += \
